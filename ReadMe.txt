@@ -1,4 +1,4 @@
-1¡¢demo_window_simple_playback.html¡¢demo_window_simple_preview.htmlÎª¼ò»¯°ædemo£¬¿ÉÔÚ´Ë»ù´¡ÉÏ¿ª·¢£»
-2¡¢demo_window_integration_preview.html¡¢demo_window_integration_playback.htmlÎª°üº¬ÁËËùÓĞ¹¦ÄÜµÄdemo£¬¿É²ÎÕÕ´ËdemoÀ´¿ª·¢¡¢ÑéÖ¤¹¦ÄÜ¡¢ÅÅ²éÎÊÌâ£»
-3¡¢ÆäËüjsÎÄ¼şÎªdemoÒÀÀµÎÄ¼ş£»
-4¡¢²âÊÔgitt
+1ã€demo_window_simple_playback.htmlã€demo_window_simple_preview.htmlä¸ºç®€åŒ–ç‰ˆdemoï¼Œå¯åœ¨æ­¤åŸºç¡€ä¸Šå¼€å‘ï¼›
+2ã€demo_window_integration_preview.htmlã€demo_window_integration_playback.htmlä¸ºåŒ…å«äº†æ‰€æœ‰åŠŸèƒ½çš„demoï¼Œå¯å‚ç…§æ­¤demoæ¥å¼€å‘ã€éªŒè¯åŠŸèƒ½ã€æ’æŸ¥é—®é¢˜ï¼›
+3ã€å…¶å®ƒjsæ–‡ä»¶ä¸ºdemoä¾èµ–æ–‡ä»¶ï¼›
+4ã€ç¼–ç è½¬æ¢utp-8
