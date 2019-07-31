@@ -2,3 +2,4 @@
 2、demo_window_integration_preview.html、demo_window_integration_playback.html为包含了所有功能的demo，可参照此demo来开发、验证功能、排查问题；
 3、其它js文件为demo依赖文件；
 4、编码转换utp-8
+5、注释说明
